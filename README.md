@@ -1,2 +1,4 @@
 # SwiftUI-HWS
-Learning SwiftUI from Hacking with swift. Based on 100 days of swift UI.
+Learning SwiftUI from Hacking with swift.
+For more info visit:
+https://www.hackingwithswift.com/books/ios-swiftui
